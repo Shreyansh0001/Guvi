@@ -3,9 +3,9 @@ class check():
 		if (n>0):
 			return("Positive")
 		elif (n==0):
-			return("zero")
+			return("Zero")
 		else:
-			return("negative")
+			return("Negative")
 a=check()
 m = int(input())
 print(a.ch(m))
