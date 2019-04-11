@@ -1,4 +1,4 @@
 n = int(input())
 while n > 0:
-	print("Hello")
+	print("Hello\n")
 	n=n-1
